@@ -1,2 +1,6 @@
-# machinelearning
+# Machine Learning
 ML theory and practice
+
+Machine Learning o Aprendizaje Automático (ML) es actualmente una las tendencias informáticas más utilizadas y comentadas, debido principalmente a los logros de esta tecnología en los últimos años. Se basa en el cambio sustancial de paradigma desde una resolución de problemas basados en reglas a una resolución basada en datos y el descubrimiento de patrones y reglas. La conducción autónoma, la visión por computadora y más notoriamente técnicas de procesamiento de lenguage natural como ChatGPT, que permite procesar lenguaje natural y obtener respuestas “casi” naturales y específicas, han puesto en las noticias del día a día esta tecnología.
+
+Este artículo es un breve resumen del resultado de mis estudios y análisis bibliográficos, así como de las asignaturas que he realizado en estos ámbitos en las universidades de Las Américas y Universidad de Talca. Las imágenes en general son propias y utilizadas en estos cursos, y los fundamentos matemáticos han sido implementados para simplificar la lectura. En este artículo y por razones de mejorar la lectura omitiré las citas respectivas y la información de origen estará en la sección de referencias. El objetivo es entregar una lectura simple dentro de lo posible para asimilar un mejor entendimiento de estas tecnologías.
